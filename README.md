@@ -2,6 +2,8 @@
 
 **English** | [日本語](README.ja.md)
 
+https://vanaditd.github.io/Circle-of-Fifths-Clock/
+
 A circle-of-fifths clock that plays a Shepard tone. Three hands follow the current time, and the pitch keeps rising without ever stopping. It is a single-file HTML piece designed for mobile browsers.
 
 A black glass clock and a pair of large stereo speakers are built into a white studio wall. A modular synth sits in front, and a wall monitor shows the sound above.
